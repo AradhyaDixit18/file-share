@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.footer{
+  top: 99%;
+  margin-top: 99px;
+  color: aliceblue;
+}

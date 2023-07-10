@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading{
+    font-size: 35px;
+    margin-left: 41%;
+    font-family: 'Ysabeau SC';
+}
+
+
+.para{
+    margin-top: 10px;
+    color: grey;
+    font-family: 'Caprasimo', cursive;
+
+}
